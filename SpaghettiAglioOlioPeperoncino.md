@@ -9,3 +9,4 @@ Uno dei miei piatti preferiti!!!
 *olio
 *peperoncino
 *sale
+*prezzemolo
