@@ -3,4 +3,4 @@
 <<<<<<< HEAD
 *1. Spaghetti aglio, olio e peperoncino
 *2. Risotto ai Funghi
-*3. Pennette alla carbonara.
+*3. Pennette alla carbonara
